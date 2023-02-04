@@ -19,6 +19,7 @@ class Program
         job2._endYear = 2023;
 
         //job2.DisplayJobDetails();
+        
         Resume resume1 = new Resume();
         resume1._name = "Fabian Diaz Santiago";
         resume1._jobs.Add(job1);
