@@ -17,7 +17,6 @@ class Program
             Console.Clear();
             Console.WriteLine("Please press enter to hide words or type 'quit' to finish");
             Console.WriteLine();
-            
         }
         
         
