@@ -14,10 +14,6 @@ public class Assignment
     {
         return _studentName;
     }
-    public void SetTopic(string topic)
-    {
-        _topic = topic;
-    }
 
     public string GetSummary()
     {
